@@ -31,7 +31,7 @@ Configuration variables:
 - **voice** (*Optional*): Speaker voice. Default is 'zahar'. Supported female voices are jane, oksana, alyss, omazh and male voices are zahar and ermil
 
 
-See on api [documentation](https://tech.yandex.com/speechkit/cloud/doc/dg/concepts/speechkit-dg-tts-docpage/) for details. N.B. english version of documentation is outdated. So you could receive api key [here](https://developer.tech.yandex.ru/)
+See on api [documentation](https://tech.yandex.com/speechkit/cloud/doc/guide/concepts/tts-http-request-docpage/) for details. N.B. english version of documentation is outdated. So you could request api key [here](https://tech.yandex.com/speechkit/cloud/)
 
 A full configuration sample:
 
